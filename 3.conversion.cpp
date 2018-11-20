@@ -18,7 +18,7 @@ main()
 	{
 	celsius=(5.0/9.0)* (fahrenheit-32);
 	printf("\n The celsius value for the given %3.0f fahrenheit is %6.1f",fahrenheit,celsius);
-		fahrenheit=fahrenheit+step;
+	fahrenheit=fahrenheit+step;
 
 	}
 }
